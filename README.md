@@ -19,7 +19,7 @@ This project used many datasets.It contains public data and private data.
     test data is only used to test the program correction. 
 - your own data
     
-    You can use your own data, which must be orginized by follow strcture.
+    You can use your own data, which must be orginized by the follow strcuture.
     
     ```
     - data
