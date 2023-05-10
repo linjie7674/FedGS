@@ -3,7 +3,6 @@ FedGS: Genomic Selection with Federated Learning
 ​The program 'fedgs' can be used to perform genomic selection with our proposed federated learning algorithm. In this program, phenotypes of your own data can be predicted using our algorithms. The effectiveness of FedGS has been demonstrated on a wide range of datasets, both simulated and real-world.
 
 # Installation
----
 ## Docker Installtion
 Go to [docker website](https://www.docker.com/) and download the version satisfying your machine.
 ## FedGS Docker image installation and quickly start
