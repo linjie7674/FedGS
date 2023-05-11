@@ -49,7 +49,7 @@ Train without 10-fold cross validation.
 ```bash
 docker run -it -v {host directory of your own data}:/fedgs/data linjie7674/fedgs python3 dockerMain.py train --isFed True --dataset_name {data1} --fed_dataset_name {data2} --batch_size 28 --lr 0.001 --study_name fedgs
 ```
-The data used to train purely should be orginized like this:
+The data used for pure training should be organized in this way.
 ```
 - data
     - dataset_name
