@@ -11,7 +11,7 @@ Go to [docker website](https://www.docker.com/) and download the version satisfy
 docker pull linjie7674/fedgs
 docker run -it linjie7674/fedgs python3 dockerMain.py kfold --isFed False --genotype test 
 ```
-**Note:** Test data is only used to test the program correction, and doesn't have any meaning. If the above commands are excuted correctly, your installation is successful.
+**Note:** The test data is solely utilized for program correction testing purposes and does not hold any significance. If the aforementioned commands are executed accurately, your installation has been successful.
 
 # Prepare Data
 This project used many datasets.It contains public data and private data.
